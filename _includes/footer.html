@@ -31,16 +31,17 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-facebook"></span>
+					<h3>Facebook</h3>
+					<span><a href="{{ site.facebook_url }}" target="_blank">{{ site.facebook_url }}</a></span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<span class="icon alt fa-twitter"></span>
+					<h3>Twitter</h3>
 					<span>
+					<span><a href="{{ site.twitter_url }}" target="_blank">{{ site.twitter_url }}</a></span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
