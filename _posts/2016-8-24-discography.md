@@ -8,6 +8,12 @@ image:
  - image_path: assets/images/ftl.jpg
    title: Feel Too Letter
 ---
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
+
 [![COVER2_600x600](http://saram12saram.com/wp-content/uploads/2011/11/COVER2_600x600.png)](http://saram12saram.com/wp-content/uploads/2011/11/COVER2_600x600.png)
 Out on YOUNG,GIFTED&WACK Records, 12 December 2013
 
