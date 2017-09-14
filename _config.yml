@@ -2,7 +2,7 @@
 title: SARAM12SARAM
 # subtitle: BLOG
 email: saram12saram@gmail.com
-description: SARAM12SARAM INFORMATIONS.
+description: BAND LOG
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: eunchurn
@@ -14,7 +14,7 @@ author: eunchurn
 # phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+# tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
