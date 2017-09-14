@@ -1,5 +1,5 @@
 ---
-layout: nothing
+layout: page
 title: Elements
 nav-menu: true
 ---
