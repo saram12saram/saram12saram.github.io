@@ -16,7 +16,12 @@ author: eunchurn
 # homepage tiles
 # tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
-
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
 # social settings
 500px_url:
 facebook_url: https://facebook.com/saram12saram
@@ -35,3 +40,4 @@ markdown: kramdown
 sass:
   style: compressed
 
+include: ['photography']
