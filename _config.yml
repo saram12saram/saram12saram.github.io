@@ -3,7 +3,7 @@ title: SARAM12SARAM
 # subtitle: BLOG
 email: saram12saram@gmail.com
 description: BAND LOG
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: eunchurn
 # street_address: 1234 Somewhere Road
