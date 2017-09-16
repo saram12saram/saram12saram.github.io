@@ -5,23 +5,32 @@ title: Raindrop Cloud Typhoon and the Sun (Remixes)
 description: Out on YOUNG,GIFTED&WACK Records, 23 November 2015
 image: images/rcts-remixes.jpg
 ---
-
+<section id="two" class="spotlights">
+    <section>
+        <a href="images/rcts-remixes.jpg" class="image">
+            <img src="images/rcts-remixes.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <ol>
+                    <li>빗물구름태풍태양 (Bacty Remix)</li>
+                    <li>Wind Blow (Kim Kate Rework)</li>
+                    <li>무덤 (커널스트립 - Kernelstrip Remix)</li>
+                    <li>더 많은 이야기 (Popular Computer Pop Remix)</li>
+                    <li>더 많은 이야기 (Popular Computer Lost Found Remix)</li>
+                    <li>더 많은 이야기 (키라라 Remix)</li>
+                    <li>그즈음 (feat. 이이언) (싱어송라이터 새벽 Remix)</li>
+                </ol>
+                빗물구름태풍태양 (Bacty Remix)
+                Out on [YOUNG,GIFTED&WACK Records], 12 December 2015
+            </div>
+        </div>
+    </section>
+</section>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/233447918&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ## 음반 소개
 
-11월 23일 사람12사람의 [빗물구름태풍태양]을 여섯 음악가가 일곱 트랙으로 리믹스한 [빗물구름태풍태양(Remixes)] 앨범이 디지털(국내/해외)로 새 앨범 [feels too letter]가 디지털(해외), CD로 발매됩니다. [빗물구름태풍태양(Remixes)]의 프리뷰를 먼저 공개합니다.
-
-사람12사람 SARAM12SARAM - 빗물구름태풍태양 Raindrop Cloud Typhoon and the Sun (Remixes)
-
-1. 빗물구름태풍태양 (Bacty Remix)
-2. Wind Blow (Kim Kate Rework)
-3. 무덤 (커널스트립 - Kernelstrip Remix)
-4. 더 많은 이야기 (Popular Computer Pop Remix)
-5. 더 많은 이야기 (Popular Computer Lost Found Remix)
-6. 더 많은 이야기 (키라라 Remix)
-7. 그즈음 (feat. 이이언) (싱어송라이터 새벽 Remix)
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/233447918&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+11월 23일 사람12사람의 [빗물구름태풍태양]을 여섯 음악가가 일곱 트랙으로 리믹스한 [빗물구름태풍태양(Remixes)] 앨범이 디지털(국내/해외)로 새 앨범 [feels too letter]가 디지털(해외), CD로 발매됩니다.
 
 ## 구매처
 ### DIGITAL

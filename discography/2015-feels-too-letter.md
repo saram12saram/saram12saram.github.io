@@ -5,7 +5,34 @@ title: Feels Too Letter (2015)
 description: Out on YOUNG,GIFTED&WACK Records, 12 December 2015
 image: images/ftl.jpg
 ---
-Out on YOUNG,GIFTED&WACK Records, 12 December 2015
+<section id="two" class="spotlights">
+    <section>
+        <a href="images/ftl.jpg" class="image">
+            <img src="images/ftl.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <ol>
+                    <li>Fish Wish Kiss</li>
+                    <li>Pitch Black Night</li>
+                    <li>Cripple</li>
+                    <li>Shatter Guy</li>
+                    <li>Everything Feels All Damn Too Tight</li>
+                </ol>
+                all songs & lyrics written by zieum, 
+                all tracks arranged by eunchurn, 
+                acoustic guitar arranged & performed by zieum, 
+                additional acoustic guitar on ‘Fish Wish Kiss’ by Jihan-Jeon (Peterpan Complex), 
+                all vox and guitar recorded at Showmust Studio except ‘Pitch-black Night’, 
+                all tracks mixed and produced by eunchurn at SARAM12SARAM Studio, 
+                mastered by Kyung-Sun Park at Boost Knob, 
+                all artwork by zieum.<br/>
+                Out on [YOUNG,GIFTED&WACK Records], 12 December 2015
+            </div>
+        </div>
+    </section>
+</section>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/169880519&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## 음반 소개
 사람을 홀리듯 신비롭고 아름다운 목소리. 주변으로 흐르는 정교하게 설계된 사운드. 사람12사람은 이런 목소리를 가진 지음과 이런 사운드를 만드는 은천의 일렉트로 팝 혼성 듀오다. 지음이 만드는 멜로디는 좋은 팝의 범주 아래 있으나 전형적이지 않다. 은천이 만드는 사운드 역시 기성 일렉트로 팝의 어법을 따르기보다 잘 만든 디자인 제품을 보듯 세밀하게 짜여있다.

@@ -1,11 +1,37 @@
 ---
 layout: page
 discography: true
-title: Raindrop Cloud Typhoon and the Sun
+title: Raindrop Cloud Typhoon and the Sun (2013)
 description: Out on YOUNG,GIFTED&WACK Records, 12 December 2013
 image: images/rcts.png
 ---
-
+<section id="two" class="spotlights">
+    <section>
+        <a href="images/rcts.png" class="image">
+            <img src="images/rcts.png" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <ol>
+                    <li>빗물구름태풍태양 Raindrop Cloud Typhoon and the Sun</li>
+                    <li>Wind Blow</li>
+                    <li>무덤 The Grave</li>
+                    <li>더많은 이야기 More Story</li>
+                    <li>그즈음 (feat. 이이언) Those Days feat. eAeon</li>
+                </ol>
+                all music and words written by zieum,
+                vocals by zieum,
+                all track arranged, recorded and mixed by eunchurn,
+                featured vocal on Those days by eAeon,
+                electric bass guitars on Wind blow and More story by toby (lovexstereo),
+                artwork and design by zieum,
+                produced by eunchurn.<br/>
+                Out on [YOUNG,GIFTED&WACK Records], 12 December 2013
+            </div>
+        </div>
+    </section>
+</section>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2949557&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 ## 음반 소개
 
 시간을 소리로 채우는 일은 어쩌면 과거보다 쉬운 일이 되어버렸는지도 모른다. 그러나 ‘무엇으로 얼마나 잘 채우는가’와는 여전히 별개의 이야기이고 여전한 과제이기도 하다. 사람12사람의 EP는 근래 보기 드물게 ’잘 채워진’ 앨범이다. 음울함과 수수께끼같은 온기가 차갑고 영민한 프로그래밍과 빈틈없이 공명한다. -**이준오 ([캐스커Casker])**
@@ -32,7 +58,7 @@ image: images/rcts.png
  - **[미묘] (음악가, [krrr.kr](http://krrr.kr/))**
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2949557&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 ## 구매처
 ### VINYL
@@ -65,3 +91,4 @@ image: images/rcts.png
 [쉿 로봇(Shit Robot)]:https://www.residentadvisor.net/dj/shitrobot
 [사이먼 데이비(Simon Davey)]:http://www.exchangemastering.co.uk/simon.htm
 [미묘]:https://twitter.com/mimyo_
+[YOUNG,GIFTED&WACK Records]:http://younggiftedwack.com/
